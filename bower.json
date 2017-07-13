@@ -1,0 +1,27 @@
+{
+  "name": "BudgetEatin",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Masood Mawlavizada"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+  },
+  "homepage": "https://github.com/masoodmawlavizada/Dummy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.4",
+    "angular": "^1.6.5",
+    "angular-messages": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-aria": "^1.6.5"
+  }
+}
