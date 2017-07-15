@@ -1,6 +1,7 @@
 // angular.module('MainModule.controllers', []);
 angular.module('MainModule', []);
 
+
 // console.log("in module")
 
 
